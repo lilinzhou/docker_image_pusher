@@ -4,8 +4,8 @@
 #ncbi/egapx:0.2-alpha
 #teambraker/braker3:latest
 #mazzalab/fastqwiper
-larsgabriel23/tiberius
-#dfam/tetools
+#larsgabriel23/tiberius
+dfam/tetools
 #godlovedc/lolcow
 #支持指定架构
 #--platform=linux/amd64
